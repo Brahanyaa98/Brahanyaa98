@@ -2,6 +2,9 @@
 
 -- Follow me if you like to code, passionate about tech and like Indian Chai 
 
+1. I'm currently working as a Software Engineer at Goldman Sachs,UT.
+2. I graduated recently with Master's in CS from Arizona State University.
+
 <!--
 **Brahanyaa98/Brahanyaa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
