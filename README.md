@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## Follow me if you like to code, passionate about tech and like Indian Chai 
+
 <!--
 **Brahanyaa98/Brahanyaa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
