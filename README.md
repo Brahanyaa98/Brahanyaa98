@@ -4,6 +4,7 @@
 
 1. I'm currently working as a Software Engineer at Goldman Sachs,UT.
 2. I graduated recently with Master's in CS from Arizona State University.
+3. ![alt text](image.jpg)
 
 
 <!--
